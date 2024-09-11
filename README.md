@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center" style="font-size: 2.5em; color: #4CAF50; font-family: Arial, sans-serif; margin-bottom: 0.5em;">
+<h1 align="center" style="font-size: 3em; color: #2E86C1; font-family: 'Trebuchet MS', sans-serif; font-weight: bold; text-shadow: 2px 2px #AED6F1; margin-bottom: 0.3em;">
     Hi, I'm Kartik Dangi
 </h1>
-<h2 align="center" style="font-size: 2em; color: #555555; font-family: Arial, sans-serif; margin-top: 0;">
+<h2 align="center" style="font-size: 2.5em; color: #1C2833; font-family: 'Lucida Sans', sans-serif; font-weight: lighter; letter-spacing: 0.1em; text-transform: uppercase; margin-top: 0;">
     Software Developer
 </h2>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-tlp&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-tlp" /> </p> -->
 
