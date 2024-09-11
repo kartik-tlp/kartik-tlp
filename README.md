@@ -1,6 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi, I'm Kartik Dangi</h1>
-<h1 align="center">Software Developer</h1>
+<h1 align="center" style="font-size: 2.5em; color: #4CAF50; font-family: Arial, sans-serif; margin-bottom: 0.5em;">
+    Hi, I'm Kartik Dangi
+</h1>
+<h2 align="center" style="font-size: 2em; color: #555555; font-family: Arial, sans-serif; margin-top: 0;">
+    Software Developer
+</h2>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-tlp&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-tlp" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-tlp&theme=monokai" alt="kartik-tlp" /></a> </p> -->
